@@ -3,9 +3,9 @@ Kaggle-Courses-Machine-Learning-Explainability
 
 -------
 
-1
-Use Cases for Model Insights
+### 1 Use Cases for Model Insights
 Why and when do you need insights?
+
 2
 Permutation Importance
 What features does your model think are important?
