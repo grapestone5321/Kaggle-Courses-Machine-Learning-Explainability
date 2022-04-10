@@ -12,7 +12,7 @@ What features does your model think are important?
 ### 3 Partial Plots
 How does each feature affect your predictions?
 
-4
+### 4
 SHAP Values
 Understand individual predictions
 5
