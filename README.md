@@ -15,8 +15,7 @@ How does each feature affect your predictions?
 ### 4 SHAP Values
 Understand individual predictions
 
-### 5
-Advanced Uses of SHAP Values
+### 5 Advanced Uses of SHAP Values
 Aggregate SHAP values for even more detailed model insights
 
 
